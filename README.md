@@ -21,6 +21,12 @@ TFC is designed for people with one of the most complex threat models: organized
 groups and nation state hackers who bypass end-to-end encryption of traditional secure 
 messaging apps by hacking the endpoint.
 
+---
+
+### WARNING, PLEASE READ: [TFC 2.26.04 /rr command enables slow covert data exfiltration.](https://github.com/maqp/tfc/issues/139)
+### tl;dr: Stop using the `/rr` command.
+
+---
 
 #### State-of-the-art cryptography
 
