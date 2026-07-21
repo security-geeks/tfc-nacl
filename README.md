@@ -216,13 +216,13 @@ This intermediate isolation mechanism runs on a single computer which means no h
 
 #### Source/Destination Computer
 - Arch Linux and its derivatives
-- Debian and its derivatives (*buntu, PureOS, Pop!_OS, Linux Mint, LMDE, Zorin OS, Pop!_OS)
+- Debian and its derivatives (*buntu, PureOS, Pop!_OS, Linux Mint, LMDE, Zorin OS)
 - Fedora 43
 - Qubes 4.3.0 (Debian 13 VM)
 
 #### Networked Computer
 - Arch Linux and its derivatives
-- Debian and its derivatives (*buntu, PureOS, Pop!_OS, Linux Mint, LMDE, Zorin OS, Pop!_OS)
+- Debian and its derivatives (*buntu, PureOS, Pop!_OS, Linux Mint, LMDE, Zorin OS)
 - Fedora 43
 - Qubes 4.3.0 (Debian 13 VM)
 - Tails 7.6
